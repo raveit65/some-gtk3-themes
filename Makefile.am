@@ -2,8 +2,7 @@ SUBDIRS = \
 	po	\
 	marco-themes \
 	icon-themes \
-	desktop-themes \
-	cursor-themes
+	desktop-themes
 
 ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
 
