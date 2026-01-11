@@ -1,5 +1,0 @@
-SUBDIRS = \
-	ContrastHigh \
-	Fog \
-	Quid
-
