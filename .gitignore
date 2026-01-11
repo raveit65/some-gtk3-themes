@@ -25,5 +25,4 @@ po/stamp-po
 
 # various generated files
 settings.ini
-desktop-themes/HighContrastInverse/gtk-2.0/gtkrc
 index.theme
