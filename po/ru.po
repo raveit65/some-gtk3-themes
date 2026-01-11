@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-themes package.
-# 
+#
 # Translators:
 # XRevan86, 2012
 # Alex Puts, 2018
@@ -17,104 +17,101 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2022-10-29 15:36+0200\n"
+"POT-Creation-Date: 2026-01-11 23:34+0100\n"
 "PO-Revision-Date: 2012-04-04 15:45+0000\n"
 "Last-Translator: Andrei Stepanov, 2023\n"
 "Language-Team: Russian (http://app.transifex.com/mate/MATE/language/ru/)\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: cursor-themes/mate-black/index.theme.in:3
-msgid "MATE (Black)"
-msgstr "MATE (Чёрная)"
-
-#: desktop-themes/BlackMATE/index.theme.in:4
+#: desktop-themes/BlackMATE/index.theme.in:3
 msgid "BlackMATE"
 msgstr "BlackMATE"
 
-#: desktop-themes/BlackMATE/index.theme.in:5
+#: desktop-themes/BlackMATE/index.theme.in:4
 msgid "A clean dark theme"
 msgstr "Чисто чёрная тема"
 
-#: desktop-themes/BlueMenta/index.theme.in:4
+#: desktop-themes/BlueMenta/index.theme.in:3
 msgid "BlueMenta"
 msgstr "Menta (Синяя)"
 
-#: desktop-themes/BlueMenta/index.theme.in:5
+#: desktop-themes/BlueMenta/index.theme.in:4
 msgid "A clean light theme with blue elements"
 msgstr "Аккуратная светлая тема с синими элементами"
 
-#: desktop-themes/Blue-Submarine/index.theme.in:4
+#: desktop-themes/BlueMenta-dark/index.theme.in:3
+#, fuzzy
+msgid "BlueMenta-dark"
+msgstr "Menta (Синяя)"
+
+#: desktop-themes/BlueMenta-dark/index.theme.in:4
+#, fuzzy
+msgid "A clean dark theme with blue elements"
+msgstr "Аккуратная светлая тема с синими элементами"
+
+#: desktop-themes/Blue-Submarine/index.theme.in:3
 msgid "Blue-Submarine"
 msgstr "Submarine (Синяя)"
 
-#: desktop-themes/Blue-Submarine/index.theme.in:5
+#: desktop-themes/Blue-Submarine/index.theme.in:4
 msgid "A medium blue theme with dark menus and panel"
 msgstr "Умеренно синяя тема с тёмными меню и панелью"
 
-#: desktop-themes/ContrastHigh/index.theme.in:4
-msgid "High Contrast"
-msgstr "Высококонтрастная"
-
-#: desktop-themes/ContrastHigh/index.theme.in:5
-msgid "High contrast theme"
-msgstr "Высококонтрастная тема"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:4
-msgid "High Contrast Inverse"
-msgstr "Высококонтрастная негативная"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:5
-msgid "White-on-black text and icons"
-msgstr "Текст и значки белые на чёрном"
-
-#: desktop-themes/GreenLaguna/index.theme.in:4
-msgid "GreenLaguna"
-msgstr "GreenLaguna"
-
-#: desktop-themes/GreenLaguna/index.theme.in:5
-msgid "A clean light green theme"
-msgstr "Светло-зелёная тема"
-
-#: desktop-themes/Green-Submarine/index.theme.in:4
+#: desktop-themes/Green-Submarine/index.theme.in:3
 msgid "Green-Submarine"
 msgstr "Submarine (Зелёная)"
 
-#: desktop-themes/Green-Submarine/index.theme.in:5
+#: desktop-themes/Green-Submarine/index.theme.in:4
 msgid "A medium green theme with dark menus and panel"
 msgstr "Умеренно зелёная тема с тёмными меню и панелью"
 
-#: desktop-themes/Menta/index.theme.in:4
-msgid "Menta"
-msgstr "Menta"
+#~ msgid "MATE (Black)"
+#~ msgstr "MATE (Чёрная)"
 
-#: desktop-themes/Menta/index.theme.in:5
-msgid "A clean light theme with green elements"
-msgstr "Аккуратная светлая тема с зелёными элементами"
+#~ msgid "High Contrast"
+#~ msgstr "Высококонтрастная"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:4
-msgid "TraditionalGreen"
-msgstr "Traditional (Зелёная)"
+#~ msgid "High contrast theme"
+#~ msgstr "Высококонтрастная тема"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:5
-msgid "Green port of Clearlooks-Phenix"
-msgstr "Зелёный порт Clearlook-Phenix"
+#~ msgid "High Contrast Inverse"
+#~ msgstr "Высококонтрастная негативная"
 
-#: desktop-themes/TraditionalOk/index.theme.in:4
-msgid "TraditionalOk"
-msgstr "TraditionalOk"
+#~ msgid "White-on-black text and icons"
+#~ msgstr "Текст и значки белые на чёрном"
 
-#: desktop-themes/TraditionalOk/index.theme.in:5
-msgid "Port of Clearlooks-Phenix"
-msgstr "Порт Clearlooks-Phenix"
+#~ msgid "GreenLaguna"
+#~ msgstr "GreenLaguna"
 
-#: icon-themes/ContrastHigh/index.theme.in:3
-msgid "ContrastHigh"
-msgstr "Высококонтрастная"
+#~ msgid "A clean light green theme"
+#~ msgstr "Светло-зелёная тема"
 
-#: icon-themes/ContrastHigh/index.theme.in:4
-msgid "ContrastHigh Icon Theme"
-msgstr "Высококонтрастная тема значков"
+#~ msgid "Menta"
+#~ msgstr "Menta"
+
+#~ msgid "A clean light theme with green elements"
+#~ msgstr "Аккуратная светлая тема с зелёными элементами"
+
+#~ msgid "TraditionalGreen"
+#~ msgstr "Traditional (Зелёная)"
+
+#~ msgid "Green port of Clearlooks-Phenix"
+#~ msgstr "Зелёный порт Clearlook-Phenix"
+
+#~ msgid "TraditionalOk"
+#~ msgstr "TraditionalOk"
+
+#~ msgid "Port of Clearlooks-Phenix"
+#~ msgstr "Порт Clearlooks-Phenix"
+
+#~ msgid "ContrastHigh"
+#~ msgstr "Высококонтрастная"
+
+#~ msgid "ContrastHigh Icon Theme"
+#~ msgstr "Высококонтрастная тема значков"

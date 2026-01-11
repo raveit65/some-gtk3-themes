@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-themes package.
-# 
+#
 # Translators:
 # Patrik Nilsson <asavartzeth@gmail.com>, 2014
 # Christian Rose <menthos@menthos.com>, 2002, 2003, 2004, 2005
@@ -14,104 +14,99 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2022-10-29 15:36+0200\n"
+"POT-Creation-Date: 2026-01-11 23:34+0100\n"
 "PO-Revision-Date: 2012-04-04 15:45+0000\n"
 "Last-Translator: Kristoffer Grundström <lovaren@gmail.com>, 2022\n"
 "Language-Team: Swedish (http://app.transifex.com/mate/MATE/language/sv/)\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: cursor-themes/mate-black/index.theme.in:3
-msgid "MATE (Black)"
-msgstr "MATE (Svart)"
-
-#: desktop-themes/BlackMATE/index.theme.in:4
+#: desktop-themes/BlackMATE/index.theme.in:3
 msgid "BlackMATE"
 msgstr "BlackMATE"
 
-#: desktop-themes/BlackMATE/index.theme.in:5
+#: desktop-themes/BlackMATE/index.theme.in:4
 msgid "A clean dark theme"
 msgstr "Ett rent mörkt tema"
 
-#: desktop-themes/BlueMenta/index.theme.in:4
+#: desktop-themes/BlueMenta/index.theme.in:3
 msgid "BlueMenta"
 msgstr "BlueMenta"
 
-#: desktop-themes/BlueMenta/index.theme.in:5
+#: desktop-themes/BlueMenta/index.theme.in:4
 msgid "A clean light theme with blue elements"
 msgstr "Ett rent ljust tema med blåa element"
 
-#: desktop-themes/Blue-Submarine/index.theme.in:4
+#: desktop-themes/BlueMenta-dark/index.theme.in:3
+#, fuzzy
+msgid "BlueMenta-dark"
+msgstr "BlueMenta"
+
+#: desktop-themes/BlueMenta-dark/index.theme.in:4
+#, fuzzy
+msgid "A clean dark theme with blue elements"
+msgstr "Ett rent ljust tema med blåa element"
+
+#: desktop-themes/Blue-Submarine/index.theme.in:3
 msgid "Blue-Submarine"
 msgstr "Blue-Submarine"
 
-#: desktop-themes/Blue-Submarine/index.theme.in:5
+#: desktop-themes/Blue-Submarine/index.theme.in:4
 msgid "A medium blue theme with dark menus and panel"
 msgstr "Ett mellanblått tema med mörka menyer och panel"
 
-#: desktop-themes/ContrastHigh/index.theme.in:4
-msgid "High Contrast"
-msgstr "Högkontrast"
-
-#: desktop-themes/ContrastHigh/index.theme.in:5
-msgid "High contrast theme"
-msgstr "Högkontrasttema"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:4
-msgid "High Contrast Inverse"
-msgstr "Inverterad högkontrast"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:5
-msgid "White-on-black text and icons"
-msgstr "Text och ikoner i vitt på svart"
-
-#: desktop-themes/GreenLaguna/index.theme.in:4
-msgid "GreenLaguna"
-msgstr "GreenLaguna"
-
-#: desktop-themes/GreenLaguna/index.theme.in:5
-msgid "A clean light green theme"
-msgstr "Ett rent ljusgrönt tema"
-
-#: desktop-themes/Green-Submarine/index.theme.in:4
+#: desktop-themes/Green-Submarine/index.theme.in:3
 msgid "Green-Submarine"
 msgstr "Green-Submarine"
 
-#: desktop-themes/Green-Submarine/index.theme.in:5
+#: desktop-themes/Green-Submarine/index.theme.in:4
 msgid "A medium green theme with dark menus and panel"
 msgstr "Ett mellangrönt tema med mörka menyer och panel"
 
-#: desktop-themes/Menta/index.theme.in:4
-msgid "Menta"
-msgstr "Menta"
+#~ msgid "MATE (Black)"
+#~ msgstr "MATE (Svart)"
 
-#: desktop-themes/Menta/index.theme.in:5
-msgid "A clean light theme with green elements"
-msgstr "Ett rent ljust tema med gröna element"
+#~ msgid "High Contrast"
+#~ msgstr "Högkontrast"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:4
-msgid "TraditionalGreen"
-msgstr "TraditionalGreen"
+#~ msgid "High contrast theme"
+#~ msgstr "Högkontrasttema"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:5
-msgid "Green port of Clearlooks-Phenix"
-msgstr "Grön portering av Clearlooks-Phenix"
+#~ msgid "High Contrast Inverse"
+#~ msgstr "Inverterad högkontrast"
 
-#: desktop-themes/TraditionalOk/index.theme.in:4
-msgid "TraditionalOk"
-msgstr "TraditionalOk"
+#~ msgid "White-on-black text and icons"
+#~ msgstr "Text och ikoner i vitt på svart"
 
-#: desktop-themes/TraditionalOk/index.theme.in:5
-msgid "Port of Clearlooks-Phenix"
-msgstr "Portering av Clearlooks-Phenix"
+#~ msgid "GreenLaguna"
+#~ msgstr "GreenLaguna"
 
-#: icon-themes/ContrastHigh/index.theme.in:3
-msgid "ContrastHigh"
-msgstr "Högkontrast"
+#~ msgid "A clean light green theme"
+#~ msgstr "Ett rent ljusgrönt tema"
 
-#: icon-themes/ContrastHigh/index.theme.in:4
-msgid "ContrastHigh Icon Theme"
-msgstr "Ikontema med högkontrast"
+#~ msgid "Menta"
+#~ msgstr "Menta"
+
+#~ msgid "A clean light theme with green elements"
+#~ msgstr "Ett rent ljust tema med gröna element"
+
+#~ msgid "TraditionalGreen"
+#~ msgstr "TraditionalGreen"
+
+#~ msgid "Green port of Clearlooks-Phenix"
+#~ msgstr "Grön portering av Clearlooks-Phenix"
+
+#~ msgid "TraditionalOk"
+#~ msgstr "TraditionalOk"
+
+#~ msgid "Port of Clearlooks-Phenix"
+#~ msgstr "Portering av Clearlooks-Phenix"
+
+#~ msgid "ContrastHigh"
+#~ msgstr "Högkontrast"
+
+#~ msgid "ContrastHigh Icon Theme"
+#~ msgstr "Ikontema med högkontrast"

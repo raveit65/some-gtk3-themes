@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-themes package.
-# 
+#
 # Translators:
 # Cora Loftis, 2018
 # Forecast <taisto@web.de>, 2012
@@ -9,104 +9,80 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2022-10-29 15:36+0200\n"
+"POT-Creation-Date: 2026-01-11 23:34+0100\n"
 "PO-Revision-Date: 2012-04-04 15:45+0000\n"
 "Last-Translator: Cora Loftis, 2018\n"
 "Language-Team: Esperanto (http://app.transifex.com/mate/MATE/language/eo/)\n"
+"Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: eo\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: cursor-themes/mate-black/index.theme.in:3
-msgid "MATE (Black)"
-msgstr "MATE (Nigro)"
-
-#: desktop-themes/BlackMATE/index.theme.in:4
+#: desktop-themes/BlackMATE/index.theme.in:3
 msgid "BlackMATE"
 msgstr ""
 
-#: desktop-themes/BlackMATE/index.theme.in:5
+#: desktop-themes/BlackMATE/index.theme.in:4
 msgid "A clean dark theme"
 msgstr "Pura, malhela temo"
 
-#: desktop-themes/BlueMenta/index.theme.in:4
+#: desktop-themes/BlueMenta/index.theme.in:3
 msgid "BlueMenta"
 msgstr ""
 
-#: desktop-themes/BlueMenta/index.theme.in:5
+#: desktop-themes/BlueMenta/index.theme.in:4
 msgid "A clean light theme with blue elements"
 msgstr "Pura, hela temo kun bluaj elementoj"
 
-#: desktop-themes/Blue-Submarine/index.theme.in:4
+#: desktop-themes/BlueMenta-dark/index.theme.in:3
+msgid "BlueMenta-dark"
+msgstr ""
+
+#: desktop-themes/BlueMenta-dark/index.theme.in:4
+#, fuzzy
+msgid "A clean dark theme with blue elements"
+msgstr "Pura, hela temo kun bluaj elementoj"
+
+#: desktop-themes/Blue-Submarine/index.theme.in:3
 msgid "Blue-Submarine"
 msgstr ""
 
-#: desktop-themes/Blue-Submarine/index.theme.in:5
+#: desktop-themes/Blue-Submarine/index.theme.in:4
 msgid "A medium blue theme with dark menus and panel"
 msgstr "Mediuma blua temo kun malhelaj menuoj kaj panelo"
 
-#: desktop-themes/ContrastHigh/index.theme.in:4
-msgid "High Contrast"
-msgstr "Alta Kontrasto"
-
-#: desktop-themes/ContrastHigh/index.theme.in:5
-msgid "High contrast theme"
-msgstr "Temo de alta kontrasto"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:4
-msgid "High Contrast Inverse"
-msgstr "Inverso de alta kontrasto"
-
-#: desktop-themes/HighContrastInverse/index.theme.in:5
-msgid "White-on-black text and icons"
-msgstr "Blanko-sur-nigro tekso kaj ikonoj"
-
-#: desktop-themes/GreenLaguna/index.theme.in:4
-msgid "GreenLaguna"
-msgstr ""
-
-#: desktop-themes/GreenLaguna/index.theme.in:5
-msgid "A clean light green theme"
-msgstr "Pura, hela kaj verda temo"
-
-#: desktop-themes/Green-Submarine/index.theme.in:4
+#: desktop-themes/Green-Submarine/index.theme.in:3
 msgid "Green-Submarine"
 msgstr ""
 
-#: desktop-themes/Green-Submarine/index.theme.in:5
+#: desktop-themes/Green-Submarine/index.theme.in:4
 msgid "A medium green theme with dark menus and panel"
 msgstr "Mediuma, verda temo kun malhelaj menuoj kaj panelo"
 
-#: desktop-themes/Menta/index.theme.in:4
-msgid "Menta"
-msgstr ""
+#~ msgid "MATE (Black)"
+#~ msgstr "MATE (Nigro)"
 
-#: desktop-themes/Menta/index.theme.in:5
-msgid "A clean light theme with green elements"
-msgstr "Pura, hela temo kun verdaj elementoj"
+#~ msgid "High Contrast"
+#~ msgstr "Alta Kontrasto"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:4
-msgid "TraditionalGreen"
-msgstr ""
+#~ msgid "High contrast theme"
+#~ msgstr "Temo de alta kontrasto"
 
-#: desktop-themes/TraditionalGreen/index.theme.in:5
-msgid "Green port of Clearlooks-Phenix"
-msgstr "Verda porto de Clearlooks-Phenix"
+#~ msgid "High Contrast Inverse"
+#~ msgstr "Inverso de alta kontrasto"
 
-#: desktop-themes/TraditionalOk/index.theme.in:4
-msgid "TraditionalOk"
-msgstr ""
+#~ msgid "White-on-black text and icons"
+#~ msgstr "Blanko-sur-nigro tekso kaj ikonoj"
 
-#: desktop-themes/TraditionalOk/index.theme.in:5
-msgid "Port of Clearlooks-Phenix"
-msgstr "Porto de Clearlooks-Phenix"
+#~ msgid "A clean light green theme"
+#~ msgstr "Pura, hela kaj verda temo"
 
-#: icon-themes/ContrastHigh/index.theme.in:3
-msgid "ContrastHigh"
-msgstr ""
+#~ msgid "A clean light theme with green elements"
+#~ msgstr "Pura, hela temo kun verdaj elementoj"
 
-#: icon-themes/ContrastHigh/index.theme.in:4
-msgid "ContrastHigh Icon Theme"
-msgstr ""
+#~ msgid "Green port of Clearlooks-Phenix"
+#~ msgstr "Verda porto de Clearlooks-Phenix"
+
+#~ msgid "Port of Clearlooks-Phenix"
+#~ msgstr "Porto de Clearlooks-Phenix"
