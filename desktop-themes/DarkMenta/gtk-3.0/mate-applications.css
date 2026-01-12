@@ -128,7 +128,7 @@
 .caja-side-pane notebook textview.view text,
 .caja-side-pane notebook viewport.frame,
 .caja-side-pane notebook widget .vertical {
-    background-color: shade (@theme_bg_color, 1.08);
+    background-color: shade (@theme_base_color, 1.00);
     color: @theme_fg_color;
 }
 
