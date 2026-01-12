@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([mate-themes], [3.22.26], [https://mate-desktop.org])
+AC_INIT([some-gtk3-themes], [1.0.0], [https://github.com/raveit65/some-gtk3-themes])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip check-news])
 
