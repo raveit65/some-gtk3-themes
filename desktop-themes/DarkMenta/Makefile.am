@@ -1,4 +1,4 @@
-THEME_NAME = BlueMenta-dark
+THEME_NAME = DarkMenta
 
 theme_in_files = index.theme.in
 themedir = $(datadir)/themes/$(THEME_NAME)

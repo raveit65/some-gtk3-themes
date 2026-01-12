@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/BlueMenta-dark/gtk-3.0/borders
+themedir = $(datadir)/themes/DarkMenta/gtk-3.0/borders
 
 theme_DATA = \
 	button-active-focus.png \

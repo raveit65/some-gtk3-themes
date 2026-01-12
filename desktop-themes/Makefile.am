@@ -1,7 +1,7 @@
 SUBDIRS = \
 	BlackMATE \
 	BlueMenta \
-	BlueMenta-dark \
+	DarkMenta \
 	Blue-Submarine \
 	Green-Submarine
 

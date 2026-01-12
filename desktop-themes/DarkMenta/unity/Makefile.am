@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/BlueMenta-dark/unity
+themedir = $(datadir)/themes/DarkMenta/unity
 
 theme_DATA = \
 	close_focused_normal.png \

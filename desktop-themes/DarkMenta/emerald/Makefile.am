@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/BlueMenta-dark/emerald
+themedir = $(datadir)/themes/DarkMenta/emerald
 
 theme_DATA = \
 	Menta.emerald \
