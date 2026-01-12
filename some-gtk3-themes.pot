@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
-# This file is distributed under the same license as the mate-themes package.
+# This file is distributed under the same license as the some-gtk3-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-themes 3.22.26\n"
-"Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2026-01-11 23:34+0100\n"
+"Project-Id-Version: some-gtk3-themes 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/raveit65/some-gtk3-themes\n"
+"POT-Creation-Date: 2026-01-12 17:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
