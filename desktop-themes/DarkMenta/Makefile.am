@@ -15,6 +15,7 @@ SUBDIRS = \
 	cinnamon \
 	emerald \
 	gtk-3.0 \
+	gtk-2.0 \
 	metacity-1 \
 	unity \
 	xfwm4

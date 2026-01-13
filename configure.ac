@@ -41,6 +41,7 @@ desktop-themes/BlueMenta/xfwm4/Makefile
 desktop-themes/DarkMenta/Makefile
 desktop-themes/DarkMenta/cinnamon/Makefile
 desktop-themes/DarkMenta/emerald/Makefile
+desktop-themes/DarkMenta/gtk-2.0/Makefile
 desktop-themes/DarkMenta/gtk-3.0/Makefile
 desktop-themes/DarkMenta/gtk-3.0/assets/Makefile
 desktop-themes/DarkMenta/gtk-3.0/borders/Makefile
