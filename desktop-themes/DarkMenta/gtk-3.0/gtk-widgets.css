@@ -2789,12 +2789,12 @@ scrollbar.vertical .slider {
     min-height: 42px;
     margin: 0px -1px 0px -1px;
 	background-image: linear-gradient(to right,
-		shade(@scrollbar_slider, 0.95),
-		shade(@scrollbar_slider, 0.8));
+		shade(@scrollbar_slider, 0.75),
+		shade(@scrollbar_slider, 0.6));
 	border-radius: 20px;
 	border-style: solid;
 	border-image: none;
-	border-color: shade(@scrollbar_slider, 0.65);
+	border-color: shade(@scrollbar_slider, 0.45);
 	border-width: 1px;
 }
 
@@ -2803,11 +2803,11 @@ scrollbar.vertical slider:hover:active,
 scrollbar.vertical .slider:hover,
 scrollbar.vertical .slider:hover:active {
 	background-image: linear-gradient(to right,
-		shade(@scrollbar_slider, 0.85),
-		shade(@scrollbar_slider, 0.7));
+		shade(@scrollbar_slider, 0.65),
+		shade(@scrollbar_slider, 0.5));
 	border-style: solid;
 	border-image: none;
-	border-color: shade(@scrollbar_slider, 0.65);
+	border-color: shade(@scrollbar_slider, 0.45);
 	border-width: 1px;
 }
 
@@ -2817,12 +2817,12 @@ scrollbar.horizontal .slider {
     min-height: 12px;
     margin: -1px 0px -1px 0px;
 	background-image: linear-gradient(to bottom,
-		shade(@scrollbar_slider, 0.95),
-		shade(@scrollbar_slider, 0.8));
+		shade(@scrollbar_slider, 0.75),
+		shade(@scrollbar_slider, 0.6));
 	border-radius: 20px;
 	border-style: solid;
 	border-image: none;
-	border-color: shade(@scrollbar_slider, 0.65);
+	border-color: shade(@scrollbar_slider, 0.45);
 	border-width: 1px;
 }
 
@@ -2831,11 +2831,11 @@ scrollbar.horizontal slider:hover:active,
 scrollbar.horizontal .slider:hover,
 scrollbar.horizontal .slider:hover:active {
 	background-image: linear-gradient(to bottom,
-		shade(@scrollbar_slider, 0.85),
-		shade(@scrollbar_slider, 0.7));
+		shade(@scrollbar_slider, 0.65),
+		shade(@scrollbar_slider, 0.5));
 	border-style: solid;
 	border-image: none;
-	border-color: shade(@scrollbar_slider, 0.65);
+	border-color: shade(@scrollbar_slider, 0.45);
 	border-width: 1px;
 }
 
