@@ -123,6 +123,12 @@
 	box-shadow: inset -1px 0 @inset_dark_color;
 }
 
+/* no box-shadow for dark theme*/
+entry.caja-location-entry,
+entry:backdrop.caja-location-entry {
+    box-shadow: none;
+}
+
 /* places, treeview, history, information, emblems and notes */
 .caja-side-pane notebook treeview.view,
 .caja-side-pane notebook textview.view text,
@@ -239,9 +245,26 @@
 }
 
 .caja-desktop EelEditableLabel.entry {
-   border-image: none;
-   border-width: 1px;
-   text-shadow: none;
+    border-image: none;
+    border-width: 1px;
+    text-shadow: none;
+}
+
+/*caja file renaming  (eel-editable-label)*/
+.caja-navigation-window .view .entry {
+    border-radius: 3px;
+    background-image: linear-gradient(to bottom,
+                                      shade(@less_dark_color, 0.5),
+                                      shade(@less_dark_color, 0.5),
+                                      shade(@less_dark_color, 0.5),
+                                      shade(@less_dark_color, 0.5));
+    color: @theme_fg_color;
+}
+
+.caja-navigation-window .view .entry:selected,
+.caja-navigation-window .view .entry:active,
+.caja-navigation-window .view .entry:hover {
+    color: @theme_selected_fg_color;
 }
 
 /* search, etc */
@@ -603,6 +626,7 @@ na-tray-applet widget box widget {
 /* pluma line numbers */
 .pluma-window textview {
     background-color: shade (@theme_bg_color, 1.07);
+    color: @theme_selected_fg_color;
 }
 
 /* notebook in view */
