@@ -14,6 +14,7 @@ endif
 SUBDIRS = \
 	cinnamon \
 	emerald \
+	gtk-2.0 \
 	gtk-3.0 \
 	metacity-1 \
 	unity \

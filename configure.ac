@@ -23,6 +23,7 @@ desktop-themes/Makefile
 desktop-themes/BlueMenta/Makefile
 desktop-themes/BlueMenta/cinnamon/Makefile
 desktop-themes/BlueMenta/emerald/Makefile
+desktop-themes/BlueMenta/gtk-2.0/Makefile
 desktop-themes/BlueMenta/gtk-3.0/Makefile
 desktop-themes/BlueMenta/gtk-3.0/assets/Makefile
 desktop-themes/BlueMenta/gtk-3.0/borders/Makefile
@@ -44,12 +45,14 @@ desktop-themes/DarkMenta/xfwm4/Makefile
 desktop-themes/Blue-Submarine/Makefile
 desktop-themes/Blue-Submarine/cinnamon/Makefile
 desktop-themes/Blue-Submarine/emerald/Makefile
+desktop-themes/Blue-Submarine/gtk-2.0/Makefile
 desktop-themes/Blue-Submarine/gtk-3.0/Makefile
 desktop-themes/Blue-Submarine/gtk-3.0/assets/Makefile
 desktop-themes/Blue-Submarine/metacity-1/Makefile
 desktop-themes/Green-Submarine/Makefile
 desktop-themes/Green-Submarine/cinnamon/Makefile
 desktop-themes/Green-Submarine/emerald/Makefile
+desktop-themes/Green-Submarine/gtk-2.0/Makefile
 desktop-themes/Green-Submarine/gtk-3.0/Makefile
 desktop-themes/Green-Submarine/gtk-3.0/assets/Makefile
 desktop-themes/Green-Submarine/metacity-1/Makefile
