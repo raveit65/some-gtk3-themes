@@ -381,7 +381,7 @@
 </draw_ops>
 
 <draw_ops name="menu_glyph_focused">
-	<image filename="menu.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_focused">
@@ -389,15 +389,15 @@
 </draw_ops>
 
 <draw_ops name="menu_focused_prelight">
-	<image filename="menu_prelight.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu_prelight.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_focused_pressed">
-	<image filename="menu_prelight.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu_prelight.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_glyph_unfocused">
-	<image filename="menu.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_unfocused">
@@ -405,7 +405,7 @@
 </draw_ops>
 
 <draw_ops name="menu_glyph_unfocused_prelight">
-	<image filename="menu_prelight.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu_prelight.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_unfocused_prelight">
@@ -413,7 +413,7 @@
 </draw_ops>
 
 <draw_ops name="menu_glyph_unfocused_pressed">
-	<image filename="menu_prelight.png" x="0" y="1" width="object_width" height="object_height"/>
+	<image filename="menu_prelight.svg" x="0" y="1" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="menu_unfocused_pressed">
